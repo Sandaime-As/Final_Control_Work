@@ -4,8 +4,8 @@
 лучше обойтись исключительно массивами. */
 
 using static System.Console;
-
 Clear();
+
 
 WriteLine("Введите массив через пробел: ");
 string array = ReadLine()!;
